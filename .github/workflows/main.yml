@@ -1,4 +1,4 @@
-name: Moja Automatyzacja Dockerowa
+name: Docker Build and Test
 
 on:
   push:
