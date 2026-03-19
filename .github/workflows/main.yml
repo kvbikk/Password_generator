@@ -16,4 +16,4 @@ jobs:
         run: docker build -t generator .
         
       - name: Run Docker container
-        run: docker run generator
+        run: docker run -e LENGTH_PASSWORD=10 generator
