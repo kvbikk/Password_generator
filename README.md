@@ -26,6 +26,7 @@
 ### 1. Local / Lokalnie (Python)
 ```bash
 python app.py
+```
 
 ### 2. Docker (Interactive / Interaktywnie)
 ```bash
@@ -38,6 +39,7 @@ docker run -it pass-generator
 # Use environment variable to bypass manual input
 # Użyj zmiennej środowiskowej, aby pominąć wpisywanie ręczne
 docker run -e LENGTH_PASSWORD=15 pass-generator
+```
 
 🛠️ Tech Stack / Technologia
 - Language: Python 3.x
