@@ -28,9 +28,11 @@
 python app.py
 
 ### 2. Docker (Interactive / Interaktywnie)
+```bash
 docker build -t pass-generator .
 docker run -it pass-generator
- 
+
+```bash 
 ### 3. Docker (Automated / Automatycznie)
 # Use environment variable to bypass manual input
 # Użyj zmiennej środowiskowej, aby pominąć wpisywanie ręczne
