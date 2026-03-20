@@ -20,4 +20,5 @@ my_password = ""
 for i in range(length_password):
     random_character = random.choice(all_characters)
     my_password = my_password + random_character
+print(f"Password generated with {length_password} characters")
 print(f"Your new password is: {my_password}")
