@@ -43,6 +43,6 @@ docker run -e LENGTH_PASSWORD=15 pass-generator
 ```
 
 ## 🛠️ Tech Stack / Technologia
-- Language: Python 3.x ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- DevOps: Docker, GitHub Actions
-- Libraries: os, random, string
+* **Language:** Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+* **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+* **Libraries:** `os`, `random`, `string`
