@@ -31,6 +31,7 @@ python app.py
 ```bash
 docker build -t pass-generator .
 docker run -it pass-generator
+```
 
 ```bash 
 ### 3. Docker (Automated / Automatycznie)
