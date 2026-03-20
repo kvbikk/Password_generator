@@ -34,14 +34,15 @@ docker build -t pass-generator .
 docker run -it pass-generator
 ```
 
-```bash 
+
 ### 3. Docker (Automated / Automatycznie)
+```bash 
 # Use environment variable to bypass manual input
 # Użyj zmiennej środowiskowej, aby pominąć wpisywanie ręczne
 docker run -e LENGTH_PASSWORD=15 pass-generator
 ```
 
-🛠️ Tech Stack / Technologia
-- Language: Python 3.x
+## 🛠️ Tech Stack / Technologia
+- Language: Python 3.x ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - DevOps: Docker, GitHub Actions
 - Libraries: os, random, string
