@@ -1,5 +1,6 @@
 # 🛡️ Password Generator Pro
 
+![Status testów](https://github.com/kvbikk/Password_generator/actions/workflows/main.yml/badge.svg)
 [EN] A simple, secure password generator in Python
 [PL] Prosty i bezpieczny generator haseł w Pythonie
 
